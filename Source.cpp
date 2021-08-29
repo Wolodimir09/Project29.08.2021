@@ -6,7 +6,7 @@ int main() {
 	srand(time(0));
 
 
-
+	int ful = 877599;
 	int number = 567;
 	
 	cout << "Hello World" << endl;
