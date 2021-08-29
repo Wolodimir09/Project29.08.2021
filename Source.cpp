@@ -7,8 +7,8 @@ int main() {
 
 
 
-	int a = 5;
-	string str = "Love";
+	int number = 567;
+	
 	cout << "Hello World" << endl;
 	return 0;
 }
