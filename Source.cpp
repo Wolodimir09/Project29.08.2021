@@ -9,6 +9,6 @@ int main() {
 	int ful = 877599;
 	int number = 567;
 	
-	cout << "Hello World" << endl;
+	double d = 45.5677;
 	return 0;
 }
